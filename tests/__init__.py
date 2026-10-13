@@ -1,0 +1,1 @@
+"""Test package for particle-system-editor."""
