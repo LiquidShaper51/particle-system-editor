@@ -1,0 +1,1 @@
+"""Qt user interface for the particle system editor."""
