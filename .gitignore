@@ -1,0 +1,44 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime artifacts
+*.psys
+*.psys.bak
+logs/
+out/
+cache/
+
+# Native build (C++ emitter extension)
+*.pyd
+*.so
+*.dll
+*.obj
+*.o
+
+# OS cruft
+Thumbs.db
+.DS_Store
